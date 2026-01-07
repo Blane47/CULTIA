@@ -101,10 +101,7 @@ The AI chatbot serves as the **primary interaction layer**.
 - VS Code
 - Internet connection
 
-### Clone the Repository
-```bash
-git clone https://github.com/your-username/CULTIA.git
-cd CULTIA
+
 ## 📅 Project Development Phases
 
 ### Phase 1: Planning & Research
