@@ -105,3 +105,51 @@ The AI chatbot serves as the **primary interaction layer**.
 ```bash
 git clone https://github.com/your-username/CULTIA.git
 cd CULTIA
+## 📅 Project Development Phases
+
+### Phase 1: Planning & Research
+- Problem identification  
+- Literature review  
+- System requirements  
+
+### Phase 2: System Design
+- Architecture design  
+- Database modeling  
+- Module definition  
+
+### Phase 3: Implementation
+- Frontend development  
+- Backend APIs  
+- AI chatbot integration  
+
+### Phase 4: Testing & Evaluation
+- Functional testing  
+- User testing  
+- Performance evaluation  
+
+---
+
+## ⚠️ Limitations
+- Internet dependency  
+- Limited local language support  
+- Initial dataset size  
+
+---
+
+## 🔮 Future Enhancements
+- Support for local languages (Ewondo, Fulfulde, Bassa)  
+- Offline learning mode  
+- Audio storytelling from elders  
+- Integration into Cameroonian school curricula  
+
+---
+
+## 📄 License
+This project is licensed under the **MIT License**.
+
+---
+
+## 📞 Contact
+**Project Author:** *(Your Name)*  
+**Degree:** B.Tech  
+**Country Focus:** Cameroon  
